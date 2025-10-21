@@ -1,3 +1,3 @@
 # NOOBY
 
-this is our group projrct
+this is our group project
